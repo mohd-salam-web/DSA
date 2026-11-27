@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohd-salam-web/DSA/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/mohd-salam-web/DSA/tree/master/0219-contains-duplicate-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mohd-salam-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mohd-salam-web/DSA/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mohd-salam-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mohd-salam-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
